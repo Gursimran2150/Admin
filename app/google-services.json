@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "298862702476",
+    "project_id": "finalapp-eef46",
+    "storage_bucket": "finalapp-eef46.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:298862702476:android:7e797b8373de2f0f0ef0a9",
+        "android_client_info": {
+          "package_name": "com.gursimran.admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "298862702476-mgdco2lfc4huncvg1gsjug57ctpnbne2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDL6YkBxk5EkLJTH2UsJ-BtBB1vidMFEI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "298862702476-mgdco2lfc4huncvg1gsjug57ctpnbne2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
